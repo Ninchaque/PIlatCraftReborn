@@ -1,0 +1,12 @@
+name: PIlatCraftReborn
+version: 1.0
+author: Ninchaque
+main: fr.main.Main
+commands:
+  village:
+    description: Configuration de CutClean
+    permission: cutclean.cc
+  addvillage:
+    description: Changer le drop des bloc
+    permission: chnage.cc
+
